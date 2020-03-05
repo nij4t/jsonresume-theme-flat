@@ -107,6 +107,7 @@ h4 span:first-child {
 	margin-left: 25px;
 }
 #awards .summary,
+#certificates .summary,
 #publications .summary {
 	margin-top: 8px;
 }
